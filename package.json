@@ -1,0 +1,19 @@
+{
+  "name": "scale-flights-pivot-table",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyvaer/flights-pivot-table.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyvaer/flights-pivot-table/issues"
+  },
+  "homepage": "https://github.com/cyvaer/flights-pivot-table#readme"
+}
